@@ -1,0 +1,13 @@
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\obj\Debug\netcoreapp3.1\sisfolha.csprojAssemblyReference.cache
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\obj\Debug\netcoreapp3.1\sisfolha.AssemblyInfoInputs.cache
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\obj\Debug\netcoreapp3.1\sisfolha.AssemblyInfo.cs
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\obj\Debug\netcoreapp3.1\sisfolha.csproj.CoreCompileInputs.cache
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\bin\Debug\netcoreapp3.1\sisfolha.exe
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\bin\Debug\netcoreapp3.1\sisfolha.deps.json
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\bin\Debug\netcoreapp3.1\sisfolha.runtimeconfig.json
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\bin\Debug\netcoreapp3.1\sisfolha.runtimeconfig.dev.json
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\bin\Debug\netcoreapp3.1\sisfolha.dll
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\bin\Debug\netcoreapp3.1\sisfolha.pdb
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\obj\Debug\netcoreapp3.1\sisfolha.dll
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\obj\Debug\netcoreapp3.1\sisfolha.pdb
+C:\Users\ValeAzul\source\repos\sisfolha\sisfolha\obj\Debug\netcoreapp3.1\sisfolha.genruntimeconfig.cache
